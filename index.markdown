@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welcome to Jackson Financial Partners
 ---
 
 <div class="home">

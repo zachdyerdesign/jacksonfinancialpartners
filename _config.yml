@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 url: "http://jacksonfinancialpartners.com" # the base hostname & protocol for your site
-theme: default
+style: small-business
 # Build settings
 markdown: kramdown
 
@@ -27,7 +27,3 @@ menu:
   main:
     - title: Welcome
       href: /
-    - title: About
-      href: /about
-    - title: Contact
-      href: /contact
