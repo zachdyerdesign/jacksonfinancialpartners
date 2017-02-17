@@ -17,6 +17,7 @@ url: "http://jacksonfinancialpartners.com" # the base hostname & protocol for yo
 style: small-business
 # Build settings
 markdown: kramdown
+copyright: Copyright &copy; Jackson Finacial Partners 2017
 
 #plugins
 bootstrap: true
@@ -26,4 +27,4 @@ jquery: true
 menu:
   main:
     - title: Welcome
-      href: /
+      url: /
