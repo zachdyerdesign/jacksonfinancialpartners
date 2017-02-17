@@ -18,6 +18,7 @@ style: small-business
 # Build settings
 markdown: kramdown
 copyright: Copyright &copy; Jackson Finacial Partners 2017
+banner: insurance.jpg
 
 #plugins
 bootstrap: true
