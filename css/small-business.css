@@ -19,23 +19,27 @@ body {
   margin-left: 0;
 }
 .navbar-green {
-  background-color: #21ce99;
-  border-color: #21ce99;
+  background-color: black;
+  border-color: #111;
 }
 .navbar-green .navbar-nav>li>a, .navbar-brand {
   color: white;
 }
 .nav>li>a:focus, .nav>li>a:hover, .navbar-brand:hover {
   background: none;
-  color: #1aa278;
+  color: #B79A00;
 }
 .btn-primary {
-  background-color: #21ce99;
-  border-color: #21ce99;
+  background-color: #B79A00;
+  border-color: #A48A00;
 }
 .btn-primary:hover {
-  background-color: #1aa278;
-  border-color: #1aa278;
+  background-color: #E5C100;
+  border-color: #B79A00;
+}
+
+.navbar-brand>img {
+  height: 100%;
 }
 
 footer {
@@ -45,9 +49,5 @@ footer {
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    }
-
-    .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
     }
 }

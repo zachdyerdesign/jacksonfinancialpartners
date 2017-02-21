@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Jackson Financial Partners
+title: Providing Income and Asset Protection for Over 30 Years
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe rem nisi accusamus error velit animi non ipsa placeat.
+By taking advantage of Central United’s new product line up, you stand a good chance to keep more of your income and help protect your assets should you get diagnosed with cancer, have an accident, get admitted to a hospital, have surgery or visit your doctor.
